@@ -16,7 +16,7 @@
   "dependencies": {
     "@material-ui/core": "^4.10.1",
     "firebase": "^7.15.0",
-    "gatsby": "^2.22.15",
+    "gatsby": "^4.25.7",
     "gatsby-plugin-material-ui": "^2.1.9",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
